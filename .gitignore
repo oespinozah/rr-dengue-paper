@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/.RDataTmp
+/data/
+!/data/processed/README.md
+/data/raw/*
+!/data/raw/README.md
+rr-dengue-paper.Rproj
